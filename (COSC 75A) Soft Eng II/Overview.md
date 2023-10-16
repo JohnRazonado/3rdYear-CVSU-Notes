@@ -1,4 +1,6 @@
-This will be the preparation of the thesis for the 4th year. This will be according to have more time for the thesis.
+> This overview is not for the overall general idea of the whole notes but the structure on the subject itself based on our prof.
+
+This will be the preparation of the thesis for the 4th year. This will be according to previous meeting in order to give more time for the thesis.
 
 ## Core
 - Title
@@ -14,6 +16,7 @@ This will be the preparation of the thesis for the 4th year. This will be accord
 - Long exams goes through the percentage of Quizzes and seatworks.
 - This will serve as the preparation of the thesis making stuffs.
 - After discussion, there will be a **Quiz**
+- Discussion starts at [[Configuration Management]]
 
 
 
