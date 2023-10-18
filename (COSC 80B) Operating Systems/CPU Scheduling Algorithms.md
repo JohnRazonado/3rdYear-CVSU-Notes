@@ -158,7 +158,7 @@ Gantt Chart:
 - Then it will look at the burst time having the lowest original
 
 ### Sample
-|Jobs | Arrival time| Priority|Burst Time| Turnaround Time (ET - AT = TT) | Waiting Time (TT - BT = WT)|
+|Jobs | Arrival time|Burst Time| Priority| Turnaround Time (ET - AT = TT) | Waiting Time (TT - BT = WT)|
 |---|---|---|---|---|--|
 |A|0|6|3|6-0=6|6-6=0|
 |B|4|3|2|15-4=11|11-3=8|
@@ -180,9 +180,9 @@ Timeline:
 Gantt Chart
 ![[Pasted image 20231014222857.png]]
 
-
+ 
 ### Sample 2
-|Jobs | Arrival time| Priority|Burst Time| Turnaround Time (ET - AT = TT) | Waiting Time (TT - BT = WT)|
+|Jobs | Arrival time|Burst Time| Priority| Turnaround Time (ET - AT = TT) | Waiting Time (TT - BT = WT)|
 |---|---|---|---|---|--|
 |A|4|2|3|7-4=3|3-2=1|
 |B|7|5|2|12-7=5|5-5=0|
@@ -211,7 +211,7 @@ Gantt Chart:
 - If they have same **lowest original burst time**, then look at **the first arrival time** and then the sequence of the jobs.
 
 ### Sample
-|Jobs | Arrival time| Priority|Burst Time| Turnaround Time (ET - AT = TT) | Waiting Time (TT - BT = WT)|
+|Jobs | Arrival time|Burst Time|Priority| Turnaround Time (ET - AT = TT) | Waiting Time (TT - BT = WT)|
 |---|---|---|---|---|--|
 |A|0|7|3|28-0=28|28-7=21|
 |B|3|5|2|21-3=18|18-5=13|
@@ -236,7 +236,7 @@ Gantt Chart:
 ![[Pasted image 20231014223843.png]]
 
 ### Sample 2
-|Jobs | Arrival time| Priority|Burst Time| Turnaround Time (ET - AT = TT) | Waiting Time (TT - BT = WT)|
+|Jobs | Arrival time|Burst Time| Priority| Turnaround Time (ET - AT = TT) | Waiting Time (TT - BT = WT)|
 |---|---|---|---|---|--|
 |A|0|4|3|19-0=19|19-4=5|
 |B|0|5|1|5-0=5|5-5=0|

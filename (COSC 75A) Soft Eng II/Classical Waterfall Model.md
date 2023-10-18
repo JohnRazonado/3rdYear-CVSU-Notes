@@ -20,7 +20,7 @@ Understand the <mark style="background: #FFB8EBA6;">exact requirements of the cu
 
 
 ## Design
-Transform requirements specified in the SRS document. Having structure that's suitable for implentation in some programming language (PL). Software architecture is derived from SRS document. There's two distinct approaches: 
+<mark style="background: #FFB8EBA6;">Transform requirements specified in the SRS document</mark>. Having structure that's suitable for implementation in some programming language (PL). Software architecture is derived from SRS document. There's two distinct approaches: 
 
 ### Traditional Design Approach
 - It consist of two different activities

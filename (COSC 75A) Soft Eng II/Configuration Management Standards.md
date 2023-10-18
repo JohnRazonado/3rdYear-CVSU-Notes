@@ -85,10 +85,8 @@ CS = Software Product
  - version **numbering**
  - attribute-based **identification**
  - **change**-oriented identification
-
 #### Plan new release is to be produced
 - Needed to plan on a gantt chart
-
 #### Ensure that version management procedures and tools are applied properly
 - Identify items that could be culprit of a bug (prediction)
 
@@ -103,7 +101,7 @@ CS = Software Product
 #### Change Management
 - Handling,approval, and tracking of **change request**
 #### Branch Management
-- Management or **concurrent development**
+- Management of **concurrent development**
 #### Variant Management
 - management of version **intended to coexist**
 
@@ -115,7 +113,7 @@ CS = Software Product
 - Table identifying relationship of software development project and maintenance plans to scheduled **releases of new SCI or SCI versions**.
 - List of assumptions about **resource required to perform [[Configuration Management Standards#Software Configuration Management Tasks|SCMP]]**.
 - **Estimates** of **human resources and budget** needed to perform SCMP.
-
+<br>
 - Defines *types of documents* to be managed and document naming scheme.
 - Defines *who takes responsibility* for CM procedures and baseline creation.
 - Defines *policies for change* control and version management
@@ -195,8 +193,8 @@ CS = Software Product
 	- Allows unnecessary duplication to be avoided.
 3. **Enhanced system reliability**
 	- Rapid detection and correction of improper config could negatively impact performance
-4. **The ability to Adapt**
-	- define and enforce formal policies and procedures govern assets identification, status**monitoring, and auditing**
+4. **Ability to monitor and audit**
+	- define and enforce formal policies and procedures govern assets identification, status **monitoring, and auditing**
 5. **Greater agility**
 	- faster problem resolution
 6. **Decreased risk**
