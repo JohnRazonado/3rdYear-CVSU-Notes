@@ -23,26 +23,37 @@ Robot must protect its own existence as long as much protection does not conflic
 
 ## Types of Robots
 ### Industrial Robots
-
+- Various works such as Welding, material Handling, Improving Productivity, Inspection are carried out by robots.
 ### Mobile Robots
-
+- Move around legs, tracks or wheels. There are types of robots that can even handle radio active material.
 ### Educational Robots
+- Used in education. They are abled to bring schools to students who cannot be able to present Physically
 
 ### Domestic Robots
+- There are two types:
+	- Perform household tasks
+	- Modern toy that performs tasks like talking, walking, and more.
 
 ## Components of Robots
 ### Manipulator
+- arm of the robot
+-  It resemble the human hand. It has several joints and links.
 
 ### End Effectors
-
+- Used by robots to interact with the environment. They vary according to the task given to the robot. 
+- It performs the tasks that are performed by palm and fingers of human hand
 ### Sensors
-
+- used to gather information from the surroundings.
+- These information's are used to guide the robotics behaviour.
 ### Actuator
-
+- Small motor inside the body of a robot
+- Moves in reaction to feedback from sensors
 ### Controller
-
+- rain of a robot.
+- Both the hardware and software are the controllers of the robot. 
+- Controls movement of manipulator and end effector.
 ### Power Supply
-
+- main source of power supply for robots are batteries and photovoltaic cells. Lead acid and silver cadmium batteries are preferred.
 ## Advantage of Robotics
 - No human intervention
 - Faster, precise and accurate
@@ -50,8 +61,6 @@ Robot must protect its own existence as long as much protection does not conflic
 - Can perform multitasking. Manpower gets reduced.
 - Work on dangerous tasks, risk of human health and safety is reduced.
 - Minimal risk if any failure occurs.
-
-
 ## Disadvantage of Robotics
 - Replacing human beings in many places which leads to widespread unemployment
 - Costly to built
