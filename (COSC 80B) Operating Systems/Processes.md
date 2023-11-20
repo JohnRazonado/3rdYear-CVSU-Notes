@@ -1,6 +1,7 @@
 > This is still subject to change due to not having the physical and actual definition of these based on the book that the prof is using.
 
 > #inProgress 
+> Need info from the update
 
 
 ## Process States
