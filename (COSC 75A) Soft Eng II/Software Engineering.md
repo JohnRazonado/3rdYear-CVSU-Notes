@@ -46,7 +46,7 @@ Developing large commercial programs is the complexity and difficulty along with
 #### Large software
 - Easier to build a wall than to as house or building, likewise, as size of software become large engineering has to give a scientific process. 
 #### Scalability
-- It software process were not based on scientific and engineering concepts, it would be easier to re-create one than to scale an existing one.
+- If software process were not based on scientific and engineering concepts, it would be easier to re-create one than to scale an existing one.
 #### Cost
 - skills and manufacturing process lower down the price of computer and electronics hardware. But cost of software remains high if proper process isn't adapted.
 #### Dynamic Nature
