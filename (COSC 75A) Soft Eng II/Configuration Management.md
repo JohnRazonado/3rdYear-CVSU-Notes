@@ -32,10 +32,8 @@ SCM provides the **capabilities of identification, control, status accounting, a
 ### Market Condition
 - Adapting to the new trend of the market
 - Change to **SW requirements** or **business rules**
-
 ### Customer Needs
 - demand of customer's data, functionality, or services modification.
-
 ### Reorganization (Business Reorganization)
 - Changes in project priorities or software engineering team structure
 - Need additional input from the engineers to accommodate organization's input to the right process and standards.

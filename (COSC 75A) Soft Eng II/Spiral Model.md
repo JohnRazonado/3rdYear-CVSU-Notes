@@ -1,4 +1,3 @@
-#inProgress 
 ![[Pasted image 20231016000124.png]]
 - Diagrammatic representation appears like spiral w/ many loops.
 - Exact number of loops in the spiral *is not fixed*.

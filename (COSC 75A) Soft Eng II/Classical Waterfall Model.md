@@ -16,7 +16,7 @@ Understand the <mark style="background: #FFB8EBA6;">exact requirements of the cu
 	- *Goal of gathering* is to collect all relevant info from the customer w/ regards to product to be developed.
 	- *Goal of analysis* activity is to collect all relevant data regarding product to be developed from users and customers through interviews and discussions.
 - **Requirement specification**
-	- User requirements are systematically organized into a Software Requirements Specification (SRS) document
+	- User requirements are systematically organized into a [[Requirements Analysis and Specification|Software Requirements Specification (SRS)]] document
 
 
 ## Design

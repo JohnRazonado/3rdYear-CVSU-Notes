@@ -98,7 +98,7 @@ CS = Software Product
 - Integration of tech by other company.
 #### Release Management
 - creation of versions for **clients and users**
-#### Change Management
+#### [[Configuration Management Standards#Change Management|Change Management]]
 - Handling,approval, and tracking of **change request**
 #### Branch Management
 - Management of **concurrent development**
