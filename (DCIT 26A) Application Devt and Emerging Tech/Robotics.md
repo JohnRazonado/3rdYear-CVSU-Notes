@@ -1,4 +1,3 @@
-#inProgress 
 
 - Combination of engineering, science and technology that produce a machine called "robot".
 - A domain where people work with the development and use of robots.
@@ -49,7 +48,7 @@ Robot must protect its own existence as long as much protection does not conflic
 - Small motor inside the body of a robot
 - Moves in reaction to feedback from sensors
 ### Controller
-- rain of a robot.
+- Brain of a robot.
 - Both the hardware and software are the controllers of the robot. 
 - Controls movement of manipulator and end effector.
 ### Power Supply
